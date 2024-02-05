@@ -1,0 +1,25 @@
+
+<mobiles>
+    <mobile>
+        <id> 11 </id>
+        <name> Samsung </name>
+        <uprice> 35000 </uprice>
+        <stock> 50 </stock>
+        <status> 1 </status>
+    </mobile>
+        <mobile>
+        <id> 20 </id>
+        <name> HTC </name>
+        <uprice> 65300 </uprice>
+        <stock> 35 </stock>
+        <status> 0 </status>
+    </mobile>
+        <mobile>
+        <id> 23 </id>
+        <name> Nokia </name>
+        <uprice> 25100 </uprice>
+        <stock> 100 </stock>
+        <status> 1 </status>
+    </mobile>
+    </mobiles>
+
